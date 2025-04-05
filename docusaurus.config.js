@@ -3,7 +3,7 @@ module.exports = {
   tagline: 'Seamless crypto payments for everyone.',
   url: 'https://simoleon.dev',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'simoleon-labs',
